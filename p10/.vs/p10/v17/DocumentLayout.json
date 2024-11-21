@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\\u7A0B\u5F0F\u4F5C\u696D\\p10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{970BD8B3-0969-4FF3-905C-1995EAA876A7}|p10\\p10.vcxproj|C:\\Users\\USER\\OneDrive\\Desktop\\\u7A0B\u5F0F\u4F5C\u696D\\p10\\p10\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{970BD8B3-0969-4FF3-905C-1995EAA876A7}|p10\\p10.vcxproj|solutionrelative:p10\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\\u7A0B\u5F0F\u4F5C\u696D\\p10\\p10\\main.c",
+              "RelativeDocumentMoniker": "p10\\main.c",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\\u7A0B\u5F0F\u4F5C\u696D\\p10\\p10\\main.c",
+              "RelativeToolTip": "p10\\main.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-18T16:17:17.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
